@@ -1,5 +1,6 @@
 # Information-Security-PA
-Repo for programming assignments of Information Security course at Fudan University
+Repo for programming assignments of Information Security course at Fudan University  
+**EDUCATIONAL PURPOSE. JUST FOR BACKUP. DO NOT USE THESE CODES IN REAL-WORLD APPLICATIONS!!**
 
 ## Author
 [Linghao Zhang](https://github.com/dnc1994)
